@@ -22,6 +22,9 @@ data/edit-history.json
 data/imports/
 data/backups/
 
+# Intake staging area (scanned text, manifests, archived originals)
+data/intake/
+
 # Generated CV output (regenerate with generate-cv-web.py / the builder UI)
 cv/current/*.pdf
 cv/variants/*/
